@@ -1,0 +1,6 @@
+C:\Users\UCA\Downloads\cp2-Fabio-Alfredo-main\cp2-Fabio-Alfredo-main\CP2\cp2\cp2\obj\Debug\cp2.csprojAssemblyReference.cache
+C:\Users\UCA\Downloads\cp2-Fabio-Alfredo-main\cp2-Fabio-Alfredo-main\CP2\cp2\cp2\obj\Debug\cp2.csproj.CoreCompileInputs.cache
+C:\Users\UCA\Downloads\cp2-Fabio-Alfredo-main\cp2-Fabio-Alfredo-main\CP2\cp2\cp2\bin\Debug\CP2.exe
+C:\Users\UCA\Downloads\cp2-Fabio-Alfredo-main\cp2-Fabio-Alfredo-main\CP2\cp2\cp2\bin\Debug\CP2.pdb
+C:\Users\UCA\Downloads\cp2-Fabio-Alfredo-main\cp2-Fabio-Alfredo-main\CP2\cp2\cp2\obj\Debug\CP2.exe
+C:\Users\UCA\Downloads\cp2-Fabio-Alfredo-main\cp2-Fabio-Alfredo-main\CP2\cp2\cp2\obj\Debug\CP2.pdb
